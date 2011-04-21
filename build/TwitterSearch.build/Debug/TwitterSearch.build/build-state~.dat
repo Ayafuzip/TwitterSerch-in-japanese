@@ -1,0 +1,551 @@
+TTwitterSearch
+v7
+r0
+t321163854.060390
+cCheck dependencies
+cProcessInfoPlistFile /Users/Aya/Desktop/TwitterSearch/bin//TwitterSearchDebug.app/Contents/Info.plist openFrameworks-Info.plist
+cProcessPCH++ /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/main.o /Users/Aya/Desktop/TwitterSearch/src/main.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/testApp.o /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxHttpUtils.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxHttpUtils/ofxHttpUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxThread.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxThread/src/ofxThread.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxml.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxml.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxmlerror.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlerror.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxmlparser.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlparser.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxXmlSettings.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/src/ofxXmlSettings.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxTwitter.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/ofxTwitter.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/TwitterDelegate.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/TwitterDelegate.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/Tweet.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/Tweet.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cPhaseScriptExecution スクリプトを実行 /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+cPBXCp bin/TwitterSearchDebug.app/Contents/Frameworks/GLUT.framework ../../../libs/glut/lib/osx/GLUT.framework
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c000000004CE74D380000000000043820
+t1290227000
+s276512
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004C623FBF0000000002B48610
+t1281507263
+s45385232
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004A12050E0000000000022140
+t1242694926
+s139584
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004C91794F00000000004D2720
+t1284602191
+s5056288
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004D22B148000000000000A5F0
+t1294119240
+s42480
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004C23BF2D00000000000005FF
+t1277411117
+s1535
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004CDB52F900000000002181A0
+t1289442041
+s2195872
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004C971DAF0000000000781330
+t1284971951
+s7869232
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004C23F49F0000000000021710
+t1277424799
+s136976
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004C8AD97D000000000017B260
+t1284168061
+s1552992
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004CE74B410000000000043330
+t1290226497
+s275248
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004CC8C1970000000000783950
+t1288225175
+s7878992
+
+N/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxHttpUtils/ofxHttpUtils.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxThread/src/ofxThread.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/Tweet.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/TwitterDelegate.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/ofxTwitter.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/ofxTwitter.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxml.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlerror.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlparser.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/src/ofxXmlSettings.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../libs/FreeImage/lib/osx/freeimage.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../libs/GLee/lib/osx/GLee.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../libs/fmodex/lib/osx/libfmodex.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../libs/freetype/lib/osx/freetype.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx/GLUT.framework
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx/GLUT.framework/GLUT
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../libs/poco/lib/osx/CppUnit.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../libs/poco/lib/osx/PocoFoundation.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../libs/poco/lib/osx/PocoNet.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../libs/poco/lib/osx/PocoUtil.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../libs/poco/lib/osx/PocoXML.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/../../../libs/rtAudio/lib/osx/rtAudio.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/bin//TwitterSearchDebug.app
+t1299471034
+s102
+
+N/Users/Aya/Desktop/TwitterSearch/bin//TwitterSearchDebug.app/Contents/Info.plist
+t1293075238
+s622
+
+N/Users/Aya/Desktop/TwitterSearch/bin//TwitterSearchDebug.app/Contents/MacOS/TwitterSearchDebug
+t1293075248
+s1256028
+
+N/Users/Aya/Desktop/TwitterSearch/bin//TwitterSearchDebug.app/Contents/PkgInfo
+t1293075238
+s8
+
+N/Users/Aya/Desktop/TwitterSearch/bin//openFrameworksDebug.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/bin/TwitterSearchDebug.app/Contents/Frameworks/GLUT.framework
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/Tweet.o
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/TwitterDelegate.o
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/TwitterSearchDebug.LinkFileList
+c000000004D745AC80000000000000510
+t1299471048
+s1296
+
+N/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxHttpUtils.o
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxThread.o
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxTwitter.o
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxXmlSettings.o
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/testApp.o
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxml.o
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxmlerror.o
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxmlparser.o
+t2
+s0
+
+N/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c000000004D745AC80000000000000113
+t1299471048
+s275
+
+N/Users/Aya/Desktop/TwitterSearch/src/main.cpp
+c000000004D12C30E00000000000001A3
+t1293075214
+s419
+i"ofMain.h"
+i"testApp.h"
+i"ofAppGlutWindow.h"
+
+N/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp
+c000000004D12C2FA0000000000000751
+t1293075194
+s1873
+i"testApp.h"
+
+N/Users/Aya/Desktop/TwitterSearch/src/testApp.h
+c000000004D12C2F20000000000000238
+t1293075186
+s568
+i"ofMain.h"
+i"ofxTwitter.h"
+
+N/var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h.gch
+t1299471053
+s36744136
+
+NopenFrameworks-Info.plist
+c000000004CC415300000000000000277
+t1287918896
+s631
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321163848#321163848#0(0"1(22@115"依存関係のターゲット“openFrameworks (from openFrameworksLib.xcodeproj)”が見つかりません321163848#18446744073709551615#0#0(1@0"0(0#1#0"8630082336#0"0#
+
+CCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/Tweet.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/Tweet.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s321163854.007882
+e321163854.013822
+r0
+xCompileC
+xbuild/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/Tweet.o
+x/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/Tweet.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oi686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/Tweet.cpp: No such file or directory
+lSLF07#2@77"Compile /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/Tweet.cpp321163854#321163854#0(187"i686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/Tweet.cpp: No such file or directoryCommand /Developer/usr/bin/gcc-4.0 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.0 failed with exit code 1321163854#18446744073709551615#0#0(1@0"0(0#0#69"/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/Tweet.cpp8618959040#1297"    cd /Users/Aya/Desktop/TwitterSearch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/TwitterSearchDebug.hmap -F/Users/Aya/Desktop/TwitterSearch/bin -F/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx -I/Users/Aya/Desktop/TwitterSearch/bin/include -I../../../libs/openFrameworks -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources/i386 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h -c /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/Tweet.cpp -o /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/Tweet.o1#
+
+CCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/TwitterDelegate.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/TwitterDelegate.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s321163854.002930
+e321163854.009375
+r0
+xCompileC
+xbuild/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/TwitterDelegate.o
+x/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/TwitterDelegate.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oi686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/TwitterDelegate.cpp: No such file or directory
+lSLF07#2@87"Compile /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/TwitterDelegate.cpp321163854#321163854#0(197"i686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/TwitterDelegate.cpp: No such file or directoryCommand /Developer/usr/bin/gcc-4.0 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.0 failed with exit code 1321163854#18446744073709551615#0#0(1@0"0(0#0#79"/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/TwitterDelegate.cpp8630596608#1317"    cd /Users/Aya/Desktop/TwitterSearch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/TwitterSearchDebug.hmap -F/Users/Aya/Desktop/TwitterSearch/bin -F/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx -I/Users/Aya/Desktop/TwitterSearch/bin/include -I../../../libs/openFrameworks -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources/i386 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h -c /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/TwitterDelegate.cpp -o /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/TwitterDelegate.o1#
+
+CCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/main.o /Users/Aya/Desktop/TwitterSearch/src/main.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s321163853.816396
+e321163853.974029
+r0
+xCompileC
+xbuild/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/main.o
+x/Users/Aya/Desktop/TwitterSearch/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Users/Aya/Desktop/TwitterSearch/src/main.cpp:1:20: error: ofMain.h: No such file or directory
+oIn file included from /Users/Aya/Desktop/TwitterSearch/src/main.cpp:2:
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:4:24: error: ofxTwitter.h: No such file or directory
+o/Users/Aya/Desktop/TwitterSearch/src/main.cpp:3:29: error: ofAppGlutWindow.h: No such file or directory
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:6: error: expected class-name before ',' token
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:6: error: expected class-name before '{' token
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:21: error: 'vector' has not been declared
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:21: error: expected ',' or '...' before '<' token
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:23: error: 'ofxTwitter' does not name a type
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:27: error: ISO C++ forbids declaration of 'vector' with no type
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:27: error: expected ';' before '<' token
+o/Users/Aya/Desktop/TwitterSearch/src/main.cpp: In function 'int main()':
+o/Users/Aya/Desktop/TwitterSearch/src/main.cpp:8: error: 'ofAppGlutWindow' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/main.cpp:8: error: expected `;' before 'window'
+o/Users/Aya/Desktop/TwitterSearch/src/main.cpp:9: error: 'window' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/main.cpp:9: error: 'OF_FULLSCREEN' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/main.cpp:9: error: 'ofSetupOpenGL' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/main.cpp:14: error: 'ofRunApp' was not declared in this scope
+lSLF07#2@53"Compile /Users/Aya/Desktop/TwitterSearch/src/main.cpp321163853#321163853#0(1699"/Users/Aya/Desktop/TwitterSearch/src/main.cpp:1:20: error: ofMain.h: No such file or directoryIn file included from /Users/Aya/Desktop/TwitterSearch/src/main.cpp:2:/Users/Aya/Desktop/TwitterSearch/src/testApp.h:4:24: error: ofxTwitter.h: No such file or directory/Users/Aya/Desktop/TwitterSearch/src/main.cpp:3:29: error: ofAppGlutWindow.h: No such file or directory/Users/Aya/Desktop/TwitterSearch/src/testApp.h:6: error: expected class-name before ',' token/Users/Aya/Desktop/TwitterSearch/src/testApp.h:6: error: expected class-name before '{' token/Users/Aya/Desktop/TwitterSearch/src/testApp.h:21: error: 'vector' has not been declared/Users/Aya/Desktop/TwitterSearch/src/testApp.h:21: error: expected ',' or '...' before '<' token/Users/Aya/Desktop/TwitterSearch/src/testApp.h:23: error: 'ofxTwitter' does not name a type/Users/Aya/Desktop/TwitterSearch/src/testApp.h:27: error: ISO C++ forbids declaration of 'vector' with no type/Users/Aya/Desktop/TwitterSearch/src/testApp.h:27: error: expected ';' before '<' token/Users/Aya/Desktop/TwitterSearch/src/main.cpp: In function 'int main()':/Users/Aya/Desktop/TwitterSearch/src/main.cpp:8: error: 'ofAppGlutWindow' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/main.cpp:8: error: expected `;' before 'window'/Users/Aya/Desktop/TwitterSearch/src/main.cpp:9: error: 'window' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/main.cpp:9: error: 'OF_FULLSCREEN' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/main.cpp:9: error: 'ofSetupOpenGL' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/main.cpp:14: error: 'ofRunApp' was not declared in this scope16(4@35"OfMain.h: No such file or directory321163853#0#95#0(6@45"/Users/Aya/Desktop/TwitterSearch/src/main.cpp314768014#1#0#1#0#28"*: No such file or directory0(4@39"OfxTwitter.h: No such file or directory321163853#166#100#2(7@67"In file included from /Users/Aya/Desktop/TwitterSearch/src/main.cpp321163853#18446744073709551615#0#0(6@45"/Users/Aya/Desktop/TwitterSearch/src/main.cpp314768014#2#0#2#0#0"0(13@89"OfxTwitter.h: No such file or directory in /Users/Aya/Desktop/TwitterSearch/src/testApp.h321163853#18446744073709551615#0#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#4#0#4#0#0"0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#4#0#4#0#28"*: No such file or directory0(4@44"OfAppGlutWindow.h: No such file or directory321163853#266#104#0(6@45"/Users/Aya/Desktop/TwitterSearch/src/main.cpp314768014#3#0#3#0#28"*: No such file or directory0(4@36"Expected class-name before ',' token321163853#370#94#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#6#0#6#0#19"expected * before *0(4@36"Expected class-name before '{' token321163853#464#94#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#6#0#6#0#19"expected * before *0(4@30"'vector' has not been declared321163853#558#89#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#21#0#21#0#25"'*' has not been declared0(4@38"Expected ',' or '...' before '<' token321163853#647#97#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#21#0#21#0#19"expected * before *0(4@33"'ofxTwitter' does not name a type321163853#744#92#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#23#0#23#0#24"'*' does not name a type0(4@52"ISO C++ forbids declaration of 'vector' with no type321163853#836#111#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#27#0#27#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '<' token321163853#947#88#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#27#0#27#0#19"expected * before *0(4@48"'ofAppGlutWindow' was not declared in this scope321163853#1108#105#0(6@45"/Users/Aya/Desktop/TwitterSearch/src/main.cpp314768014#8#0#8#0#34"'*' was not declared in this scope0(4@28"Expected `;' before 'window'321163853#1213#85#0(6@45"/Users/Aya/Desktop/TwitterSearch/src/main.cpp314768014#8#0#8#0#19"expected * before *0(4@39"'window' was not declared in this scope321163853#1298#96#0(6@45"/Users/Aya/Desktop/TwitterSearch/src/main.cpp314768014#9#0#9#0#34"'*' was not declared in this scope0(4@46"'OF_FULLSCREEN' was not declared in this scope321163853#1394#103#0(6@45"/Users/Aya/Desktop/TwitterSearch/src/main.cpp314768014#9#0#9#0#34"'*' was not declared in this scope0(4@46"'ofSetupOpenGL' was not declared in this scope321163853#1497#103#0(6@45"/Users/Aya/Desktop/TwitterSearch/src/main.cpp314768014#9#0#9#0#34"'*' was not declared in this scope0(4@41"'ofRunApp' was not declared in this scope321163853#1600#99#0(6@45"/Users/Aya/Desktop/TwitterSearch/src/main.cpp314768014#14#0#14#0#34"'*' was not declared in this scope0(0#0#45"/Users/Aya/Desktop/TwitterSearch/src/main.cpp8620473664#1272"    cd /Users/Aya/Desktop/TwitterSearch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/TwitterSearchDebug.hmap -F/Users/Aya/Desktop/TwitterSearch/bin -F/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx -I/Users/Aya/Desktop/TwitterSearch/bin/include -I../../../libs/openFrameworks -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources/i386 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h -c /Users/Aya/Desktop/TwitterSearch/src/main.cpp -o /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/main.o1#
+
+CCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxHttpUtils.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxHttpUtils/ofxHttpUtils.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s321163853.972734
+e321163853.985300
+r0
+xCompileC
+xbuild/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxHttpUtils.o
+x/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxHttpUtils/ofxHttpUtils.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oi686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxHttpUtils/ofxHttpUtils.cpp: No such file or directory
+lSLF07#2@86"Compile /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxHttpUtils/ofxHttpUtils.cpp321163853#321163853#0(196"i686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxHttpUtils/ofxHttpUtils.cpp: No such file or directoryCommand /Developer/usr/bin/gcc-4.0 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.0 failed with exit code 1321163853#18446744073709551615#0#0(1@0"0(0#0#78"/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxHttpUtils/ofxHttpUtils.cpp8632894176#1313"    cd /Users/Aya/Desktop/TwitterSearch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/TwitterSearchDebug.hmap -F/Users/Aya/Desktop/TwitterSearch/bin -F/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx -I/Users/Aya/Desktop/TwitterSearch/bin/include -I../../../libs/openFrameworks -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources/i386 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h -c /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxHttpUtils/ofxHttpUtils.cpp -o /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxHttpUtils.o1#
+
+CCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxThread.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxThread/src/ofxThread.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s321163853.974121
+e321163853.985064
+r0
+xCompileC
+xbuild/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxThread.o
+x/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxThread/src/ofxThread.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oi686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxThread/src/ofxThread.cpp: No such file or directory
+lSLF07#2@84"Compile /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxThread/src/ofxThread.cpp321163853#321163853#0(194"i686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxThread/src/ofxThread.cpp: No such file or directoryCommand /Developer/usr/bin/gcc-4.0 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.0 failed with exit code 1321163853#18446744073709551615#0#0(1@0"0(0#0#76"/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxThread/src/ofxThread.cpp8632241440#1308"    cd /Users/Aya/Desktop/TwitterSearch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/TwitterSearchDebug.hmap -F/Users/Aya/Desktop/TwitterSearch/bin -F/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx -I/Users/Aya/Desktop/TwitterSearch/bin/include -I../../../libs/openFrameworks -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources/i386 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h -c /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxThread/src/ofxThread.cpp -o /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxThread.o1#
+
+CCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxTwitter.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/ofxTwitter.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s321163854.001781
+e321163854.007791
+r0
+xCompileC
+xbuild/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxTwitter.o
+x/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/ofxTwitter.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oi686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/ofxTwitter.cpp: No such file or directory
+lSLF07#2@82"Compile /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/ofxTwitter.cpp321163854#321163854#0(192"i686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/ofxTwitter.cpp: No such file or directoryCommand /Developer/usr/bin/gcc-4.0 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.0 failed with exit code 1321163854#18446744073709551615#0#0(1@0"0(0#0#74"/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/ofxTwitter.cpp8629361984#1307"    cd /Users/Aya/Desktop/TwitterSearch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/TwitterSearchDebug.hmap -F/Users/Aya/Desktop/TwitterSearch/bin -F/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx -I/Users/Aya/Desktop/TwitterSearch/bin/include -I../../../libs/openFrameworks -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources/i386 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h -c /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxTwitter/ofxTwitter.cpp -o /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxTwitter.o1#
+
+CCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxXmlSettings.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/src/ofxXmlSettings.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s321163853.996501
+e321163854.002856
+r0
+xCompileC
+xbuild/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxXmlSettings.o
+x/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/src/ofxXmlSettings.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oi686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/src/ofxXmlSettings.cpp: No such file or directory
+lSLF07#2@94"Compile /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/src/ofxXmlSettings.cpp321163853#321163854#0(204"i686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/src/ofxXmlSettings.cpp: No such file or directoryCommand /Developer/usr/bin/gcc-4.0 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.0 failed with exit code 1321163854#18446744073709551615#0#0(1@0"0(0#0#86"/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/src/ofxXmlSettings.cpp8631351424#1323"    cd /Users/Aya/Desktop/TwitterSearch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/TwitterSearchDebug.hmap -F/Users/Aya/Desktop/TwitterSearch/bin -F/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx -I/Users/Aya/Desktop/TwitterSearch/bin/include -I../../../libs/openFrameworks -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources/i386 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h -c /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/src/ofxXmlSettings.cpp -o /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/ofxXmlSettings.o1#
+
+CCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/testApp.o /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s321163853.817492
+e321163853.972531
+r0
+xCompileC
+xbuild/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/testApp.o
+x/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oIn file included from /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:1:
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:3:20: error: ofMain.h: No such file or directory
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:4:24: error: ofxTwitter.h: No such file or directory
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:6: error: expected class-name before ',' token
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:6: error: expected class-name before '{' token
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:21: error: 'vector' has not been declared
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:21: error: expected ',' or '...' before '<' token
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:23: error: 'ofxTwitter' does not name a type
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:27: error: ISO C++ forbids declaration of 'vector' with no type
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.h:27: error: expected ';' before '<' token
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp: In member function 'void testApp::setup()':
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:8: error: 'twitter' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:12: error: 'ofGetElapsedTimeMillis' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp: In member function 'void testApp::update()':
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:19: error: 'ofGetElapsedTimeMillis' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:19: error: 'ABS' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:21: error: 'twitter' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp: In member function 'void testApp::draw()':
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:30: error: 'ofBackground' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:32: error: 'tweets' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:33: error: 'ofSetColor' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:34: error: 'ofDrawBitmapString' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp: At global scope:
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:40: error: variable or field 'searchResult' declared void
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:40: error: 'int testApp::searchResult' is not a static member of 'class testApp'
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:40: error: 'vector' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:40: error: 'Tweet' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:40: error: 'results' was not declared in this scope
+o/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:40: error: expected ',' or ';' before '{' token
+lSLF07#2@56"Compile /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp321163853#321163853#0(2870"In file included from /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:1:/Users/Aya/Desktop/TwitterSearch/src/testApp.h:3:20: error: ofMain.h: No such file or directory/Users/Aya/Desktop/TwitterSearch/src/testApp.h:4:24: error: ofxTwitter.h: No such file or directory/Users/Aya/Desktop/TwitterSearch/src/testApp.h:6: error: expected class-name before ',' token/Users/Aya/Desktop/TwitterSearch/src/testApp.h:6: error: expected class-name before '{' token/Users/Aya/Desktop/TwitterSearch/src/testApp.h:21: error: 'vector' has not been declared/Users/Aya/Desktop/TwitterSearch/src/testApp.h:21: error: expected ',' or '...' before '<' token/Users/Aya/Desktop/TwitterSearch/src/testApp.h:23: error: 'ofxTwitter' does not name a type/Users/Aya/Desktop/TwitterSearch/src/testApp.h:27: error: ISO C++ forbids declaration of 'vector' with no type/Users/Aya/Desktop/TwitterSearch/src/testApp.h:27: error: expected ';' before '<' token/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp: In member function 'void testApp::setup()':/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:8: error: 'twitter' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:12: error: 'ofGetElapsedTimeMillis' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp: In member function 'void testApp::update()':/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:19: error: 'ofGetElapsedTimeMillis' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:19: error: 'ABS' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:21: error: 'twitter' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp: In member function 'void testApp::draw()':/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:30: error: 'ofBackground' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:32: error: 'tweets' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:33: error: 'ofSetColor' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:34: error: 'ofDrawBitmapString' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp: At global scope:/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:40: error: variable or field 'searchResult' declared void/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:40: error: 'int testApp::searchResult' is not a static member of 'class testApp'/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:40: error: 'vector' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:40: error: 'Tweet' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:40: error: 'results' was not declared in this scope/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp:40: error: expected ',' or ';' before '{' token25(4@35"OfMain.h: No such file or directory321163853#74#96#2(7@70"In file included from /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp321163853#18446744073709551615#0#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#1#0#1#0#0"0(13@85"OfMain.h: No such file or directory in /Users/Aya/Desktop/TwitterSearch/src/testApp.h321163853#18446744073709551615#0#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#3#0#3#0#0"0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#3#0#3#0#28"*: No such file or directory0(4@39"OfxTwitter.h: No such file or directory321163853#170#100#2(7@70"In file included from /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp321163853#18446744073709551615#0#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#1#0#1#0#0"0(13@89"OfxTwitter.h: No such file or directory in /Users/Aya/Desktop/TwitterSearch/src/testApp.h321163853#18446744073709551615#0#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#4#0#4#0#0"0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#4#0#4#0#28"*: No such file or directory0(4@36"Expected class-name before ',' token321163853#270#94#2(7@70"In file included from /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp321163853#18446744073709551615#0#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#1#0#1#0#0"0(13@86"Expected class-name before ',' token in /Users/Aya/Desktop/TwitterSearch/src/testApp.h321163853#18446744073709551615#0#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#6#0#6#0#0"0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#6#0#6#0#19"expected * before *0(4@36"Expected class-name before '{' token321163853#364#94#2(7@70"In file included from /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp321163853#18446744073709551615#0#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#1#0#1#0#0"0(13@86"Expected class-name before '{' token in /Users/Aya/Desktop/TwitterSearch/src/testApp.h321163853#18446744073709551615#0#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#6#0#6#0#0"0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#6#0#6#0#19"expected * before *0(4@30"'vector' has not been declared321163853#458#89#2(7@70"In file included from /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp321163853#18446744073709551615#0#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#1#0#1#0#0"0(13@80"'vector' has not been declared in /Users/Aya/Desktop/TwitterSearch/src/testApp.h321163853#18446744073709551615#0#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#21#0#21#0#0"0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#21#0#21#0#25"'*' has not been declared0(4@38"Expected ',' or '...' before '<' token321163853#547#97#2(7@70"In file included from /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp321163853#18446744073709551615#0#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#1#0#1#0#0"0(13@88"Expected ',' or '...' before '<' token in /Users/Aya/Desktop/TwitterSearch/src/testApp.h321163853#18446744073709551615#0#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#21#0#21#0#0"0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#21#0#21#0#19"expected * before *0(4@33"'ofxTwitter' does not name a type321163853#644#92#2(7@70"In file included from /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp321163853#18446744073709551615#0#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#1#0#1#0#0"0(13@83"'ofxTwitter' does not name a type in /Users/Aya/Desktop/TwitterSearch/src/testApp.h321163853#18446744073709551615#0#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#23#0#23#0#0"0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#23#0#23#0#24"'*' does not name a type0(4@52"ISO C++ forbids declaration of 'vector' with no type321163853#736#111#2(7@70"In file included from /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp321163853#18446744073709551615#0#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#1#0#1#0#0"0(13@102"ISO C++ forbids declaration of 'vector' with no type in /Users/Aya/Desktop/TwitterSearch/src/testApp.h321163853#18446744073709551615#0#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#27#0#27#0#0"0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#27#0#27#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '<' token321163853#847#88#2(7@70"In file included from /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp321163853#18446744073709551615#0#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#1#0#1#0#0"0(13@79"Expected ';' before '<' token in /Users/Aya/Desktop/TwitterSearch/src/testApp.h321163853#18446744073709551615#0#0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#27#0#27#0#0"0(6@46"/Users/Aya/Desktop/TwitterSearch/src/testApp.h314767986#27#0#27#0#19"expected * before *0(4@40"'twitter' was not declared in this scope321163853#1029#100#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#8#0#8#0#34"'*' was not declared in this scope0(4@55"'ofGetElapsedTimeMillis' was not declared in this scope321163853#1129#116#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#12#0#12#0#34"'*' was not declared in this scope0(4@55"'ofGetElapsedTimeMillis' was not declared in this scope321163853#1340#116#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#19#0#19#0#34"'*' was not declared in this scope0(4@36"'ABS' was not declared in this scope321163853#1456#97#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#19#0#19#0#34"'*' was not declared in this scope0(4@40"'twitter' was not declared in this scope321163853#1553#101#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#21#0#21#0#34"'*' was not declared in this scope0(4@45"'ofBackground' was not declared in this scope321163853#1747#106#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#30#0#30#0#34"'*' was not declared in this scope0(4@39"'tweets' was not declared in this scope321163853#1853#100#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#32#0#32#0#34"'*' was not declared in this scope0(4@43"'ofSetColor' was not declared in this scope321163853#1953#104#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#33#0#33#0#34"'*' was not declared in this scope0(4@51"'ofDrawBitmapString' was not declared in this scope321163853#2057#112#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#34#0#34#0#34"'*' was not declared in this scope0(23@16"At global scope:321163853#2169#67#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#0#0#0#0#0"0(4@46"Variable or field 'searchResult' declared void321163853#2236#107#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#40#0#40#0#0"0(4@69"'int testApp::searchResult' is not a static member of 'class testApp'321163853#2343#130#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#40#0#40#0#0"0(4@39"'vector' was not declared in this scope321163853#2473#100#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#40#0#40#0#34"'*' was not declared in this scope0(4@38"'Tweet' was not declared in this scope321163853#2573#99#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#40#0#40#0#34"'*' was not declared in this scope0(4@40"'results' was not declared in this scope321163853#2672#101#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#40#0#40#0#34"'*' was not declared in this scope0(4@36"Expected ',' or ';' before '{' token321163853#2773#97#0(6@48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp314767994#40#0#40#0#19"expected * before *0(0#0#48"/Users/Aya/Desktop/TwitterSearch/src/testApp.cpp8623693568#1278"    cd /Users/Aya/Desktop/TwitterSearch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/TwitterSearchDebug.hmap -F/Users/Aya/Desktop/TwitterSearch/bin -F/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx -I/Users/Aya/Desktop/TwitterSearch/bin/include -I../../../libs/openFrameworks -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources/i386 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h -c /Users/Aya/Desktop/TwitterSearch/src/testApp.cpp -o /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/testApp.o1#
+
+CCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxml.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxml.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s321163853.985378
+e321163853.995220
+r0
+xCompileC
+xbuild/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxml.o
+x/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxml.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oi686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxml.cpp: No such file or directory
+lSLF07#2@88"Compile /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxml.cpp321163853#321163853#0(198"i686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxml.cpp: No such file or directoryCommand /Developer/usr/bin/gcc-4.0 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.0 failed with exit code 1321163853#18446744073709551615#0#0(1@0"0(0#0#80"/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxml.cpp8599233248#1310"    cd /Users/Aya/Desktop/TwitterSearch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/TwitterSearchDebug.hmap -F/Users/Aya/Desktop/TwitterSearch/bin -F/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx -I/Users/Aya/Desktop/TwitterSearch/bin/include -I../../../libs/openFrameworks -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources/i386 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h -c /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxml.cpp -o /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxml.o1#
+
+CCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxmlerror.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlerror.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s321163853.986296
+e321163853.995471
+r0
+xCompileC
+xbuild/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxmlerror.o
+x/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlerror.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oi686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlerror.cpp: No such file or directory
+lSLF07#2@93"Compile /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlerror.cpp321163853#321163853#0(203"i686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlerror.cpp: No such file or directoryCommand /Developer/usr/bin/gcc-4.0 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.0 failed with exit code 1321163853#18446744073709551615#0#0(1@0"0(0#0#85"/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlerror.cpp8599078656#1320"    cd /Users/Aya/Desktop/TwitterSearch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/TwitterSearchDebug.hmap -F/Users/Aya/Desktop/TwitterSearch/bin -F/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx -I/Users/Aya/Desktop/TwitterSearch/bin/include -I../../../libs/openFrameworks -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources/i386 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h -c /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlerror.cpp -o /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxmlerror.o1#
+
+CCompileC build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxmlparser.o /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlparser.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s321163853.995550
+e321163854.001443
+r0
+xCompileC
+xbuild/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxmlparser.o
+x/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlparser.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oi686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlparser.cpp: No such file or directory
+lSLF07#2@94"Compile /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlparser.cpp321163853#321163854#0(204"i686-apple-darwin10-gcc-4.0.1: /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlparser.cpp: No such file or directoryCommand /Developer/usr/bin/gcc-4.0 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.0 failed with exit code 1321163854#18446744073709551615#0#0(1@0"0(0#0#86"/Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlparser.cpp8618215424#1322"    cd /Users/Aya/Desktop/TwitterSearch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/TwitterSearchDebug.hmap -F/Users/Aya/Desktop/TwitterSearch/bin -F/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx -I/Users/Aya/Desktop/TwitterSearch/bin/include -I../../../libs/openFrameworks -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources/i386 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h -c /Users/Aya/Desktop/TwitterSearch/../../../addons/ofxXmlSettings/libs/tinyxmlparser.cpp -o /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/tinyxmlparser.o1#
+
+CLd /Users/Aya/Desktop/TwitterSearch/bin//TwitterSearchDebug.app/Contents/MacOS/TwitterSearchDebug normal i386
+r0
+
+CPBXCp bin/TwitterSearchDebug.app/Contents/Frameworks/GLUT.framework ../../../libs/glut/lib/osx/GLUT.framework
+s321163854.041712
+e321163854.060309
+r0
+xPBXCp
+xbin/TwitterSearchDebug.app/Contents/Frameworks/GLUT.framework
+x../../../libs/glut/lib/osx/GLUT.framework
+o/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx: No such file or directory
+lSLF07#2@46"Copy ../../../libs/glut/lib/osx/GLUT.framework321163854#321163854#0(195"/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx: No such file or directoryCommand /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 11(4@107"Command /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 1321163854#18446744073709551615#0#0(1@0"0(0#0#74"/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx/GLUT.framework8633864096#357"    cd /Users/Aya/Desktop/TwitterSearch    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx/GLUT.framework /Users/Aya/Desktop/TwitterSearch/bin/TwitterSearchDebug.app/Contents/Frameworks1#
+
+CPhaseScriptExecution スクリプトを実行 /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+s321163854.013899
+e321163854.041622
+r1
+xPhaseScriptExecution
+xスクリプトを実行
+x/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+ocp: ../../../libs/fmodex/lib/osx/libfmodex.dylib: No such file or directory
+lSLF07#2@53"Run custom shell script 'スクリプトを実行'321163854#321163854#0(76"cp: ../../../libs/fmodex/lib/osx/libfmodex.dylib: No such file or directory1(4@75"Cp: ../../../libs/fmodex/lib/osx/libfmodex.dylib: No such file or directory321163854#0#76#0(1@0"0(0#0#0"8618809536#18388"    cd /Users/Aya/Desktop/TwitterSearch    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER Aya    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386 ppc"    setenv ARCHS_STANDARD_32_BIT "i386 ppc"    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/Aya/Desktop/TwitterSearch/build    setenv BUILD_ROOT /Users/Aya/Desktop/TwitterSearch/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/Aya/Desktop/TwitterSearch/bin/    setenv CACHE_ROOT /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/Aya/Desktop/TwitterSearch/bin//TwitterSearchDebug.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/Aya/Desktop/TwitterSearch/bin/    setenv CONFIGURATION_TEMP_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug    setenv CONTENTS_FOLDER_PATH TwitterSearchDebug.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH TwitterSearchDebug.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/TwitterSearch.dst    setenv DWARF_DSYM_FILE_NAME TwitterSearchDebug.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/Aya/Desktop/TwitterSearch/bin/    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH TwitterSearchDebug.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH TwitterSearchDebug.app/Contents/MacOS    setenv EXECUTABLE_NAME TwitterSearchDebug    setenv EXECUTABLE_PATH TwitterSearchDebug.app/Contents/MacOS/TwitterSearchDebug    setenv FILE_LIST /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH TwitterSearchDebug.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/Aya/Desktop/TwitterSearch/bin/\"  \"/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 "\"/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME TwitterSearchDebug.app    setenv GCC3_VERSION 3.3    setenv GCC_AUTO_VECTORIZATION YES    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_FIX_AND_CONTINUE YES    setenv GCC_ENABLE_SSE3_EXTENSIONS YES    setenv GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS YES    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_MODEL_TUNING G4    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.0    setenv GCC_VERSION_IDENTIFIER __0    setenv GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS NO    setenv GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO NO    setenv GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL NO    setenv GCC_WARN_UNINITIALIZED_AUTOS NO    setenv GCC_WARN_UNUSED_VALUE NO    setenv GCC_WARN_UNUSED_VARIABLE NO    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/Aya/Desktop/TwitterSearch/bin//include\" ../../../libs/openFrameworks/** ../../../libs/freetype/include/ ../../../libs/freetype/include/freetype2 ../../../libs/poco/include ../../../addons/"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE openFrameworks-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH TwitterSearchDebug.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH TwitterSearchDebug.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/TwitterSearch.dst/Users/Aya/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER Aya    setenv INSTALL_PATH /Users/Aya/Applications    setenv INSTALL_ROOT /tmp/TwitterSearch.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH TwitterSearchDebug.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/TwitterSearchDebug-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/Aya/Desktop/TwitterSearch/bin/\"  \"/Users/Aya/Desktop/TwitterSearch/../../../libs/freeimage/lib/osx\" \"/Users/Aya/Desktop/TwitterSearch/../../../libs/FreeImage/lib/osx\"  \"/Users/Aya/Desktop/TwitterSearch/../../../libs/GLee/lib/osx\" \"/Users/Aya/Desktop/TwitterSearch/../../../libs/poco/lib/osx\" \"/Users/Aya/Desktop/TwitterSearch/../../../libs/rtAudio/lib/osx\"        \"/Users/Aya/Desktop/TwitterSearch/../../../libs/fmodex/lib/osx\" \"/Users/Aya/Desktop/TwitterSearch/../../../libs/freetype/lib/osx\" \"/Users/Aya/Desktop/TwitterSearch/../../../libs/FreeImage/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1 "\"/Users/Aya/Desktop/TwitterSearch/../../../libs/freeimage/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_14 "\"/Users/Aya/Desktop/TwitterSearch/../../../libs/fmodex/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_15 "\"/Users/Aya/Desktop/TwitterSearch/../../../libs/freetype/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_2 "\"/Users/Aya/Desktop/TwitterSearch/../../../libs/FreeImage/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_4 "\"/Users/Aya/Desktop/TwitterSearch/../../../libs/GLee/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_5 "\"/Users/Aya/Desktop/TwitterSearch/../../../libs/poco/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_6 "\"/Users/Aya/Desktop/TwitterSearch/../../../libs/rtAudio/lib/osx\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal/i386/TwitterSearchDebug.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH TwitterSearchDebug.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Objects-normal    setenv OBJROOT /Users/Aya/Desktop/TwitterSearch/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CPLUSPLUSFLAGS "-D__MACOSX_CORE__ -lpthread"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH TwitterSearchDebug.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/PkgInfo    setenv PKGINFO_PATH TwitterSearchDebug.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_NAME macosx    setenv PLATFORM_PRODUCT_BUILD_VERSION 10M2423    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH TwitterSearchDebug.app/Contents/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH TwitterSearchDebug.app/Contents/PrivateHeaders    setenv PRODUCT_NAME TwitterSearchDebug    setenv PRODUCT_SETTINGS_PATH /Users/Aya/Desktop/TwitterSearch/openFrameworks-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT TwitterSearch    setenv PROJECT_DERIVED_FILE_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/DerivedSources    setenv PROJECT_DIR /Users/Aya/Desktop/TwitterSearch    setenv PROJECT_FILE_PATH /Users/Aya/Desktop/TwitterSearch/TwitterSearch.xcodeproj    setenv PROJECT_NAME TwitterSearch    setenv PROJECT_TEMP_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build    setenv PUBLIC_HEADERS_FOLDER_PATH TwitterSearchDebug.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/Aya/Desktop/TwitterSearch/bin/\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH TwitterSearchDebug.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT     setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/Aya/Desktop/TwitterSearch/bin//DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH TwitterSearchDebug.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH TwitterSearchDebug.app/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/Aya/Desktop/TwitterSearch    setenv SRCROOT /Users/Aya/Desktop/TwitterSearch    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/SymbolRepositories    setenv SYMROOT /Users/Aya/Desktop/TwitterSearch/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME TwitterSearch    setenv TARGET_BUILD_DIR /Users/Aya/Desktop/TwitterSearch/bin/    setenv TARGET_NAME TwitterSearch    setenv TARGET_TEMP_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build    setenv TEMP_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build    setenv TEMP_FILES_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build    setenv TEMP_FILE_DIR /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build    setenv TEMP_ROOT /Users/Aya/Desktop/TwitterSearch/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH TwitterSearchDebug.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER Aya    setenv USER_APPS_DIR /Users/Aya/Applications    setenv USER_LIBRARY_DIR /Users/Aya/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH TwitterSearchDebug.app/Contents/version.plist    setenv VERSION_INFO_BUILDER Aya    setenv VERSION_INFO_FILE TwitterSearchDebug_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:TwitterSearchDebug  PROJECT:TwitterSearch-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME TwitterSearchDebug.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv ZERO_LINK NO    /bin/sh -c /Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh0#
+
+CProcessInfoPlistFile /Users/Aya/Desktop/TwitterSearch/bin//TwitterSearchDebug.app/Contents/Info.plist openFrameworks-Info.plist
+r0
+
+CProcessPCH++ /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_0
+s321163848.471555
+e321163853.816242
+r1
+xProcessPCH++
+x/var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oi686-apple-darwin10-gcc-4.0.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h321163848#321163853#0(92"i686-apple-darwin10-gcc-4.0.1: -lpthread: linker input file unused because linking not done0(0#0#60"/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h8629973344#1177"    cd /Users/Aya/Desktop/TwitterSearch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/TwitterSearchDebug.hmap -F/Users/Aya/Desktop/TwitterSearch/bin -F/Users/Aya/Desktop/TwitterSearch/../../../libs/glut/lib/osx -I/Users/Aya/Desktop/TwitterSearch/bin/include -I../../../libs/openFrameworks -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources/i386 -I/Users/Aya/Desktop/TwitterSearch/build/TwitterSearch.build/Debug/TwitterSearch.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/vX/vXpU8vhWEHe-1Yxd4ZwHkk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-gritpmdhmqrdwegxeawmfsejwnxk/Carbon.h.gch0#
+
+CTouch /Users/Aya/Desktop/TwitterSearch/bin//TwitterSearchDebug.app
+r0
+

@@ -1,0 +1,259 @@
+// !$*UTF8*$!
+{
+	035EEBD3134B3AE000B9B0F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 117";
+		rLen = 0;
+		rLoc = 2563;
+		rType = 0;
+		vrLen = 1250;
+		vrLoc = 2244;
+	};
+	03A3EED4132492440013B656 /* TwitterSearch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TwitterSearch;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	03A3EEFF132492570013B656 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	03A3EF00132492570013B656 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	03B086981330A301005E4FFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 03BD58DC13250340003BE710 /* ofxTwitter.cpp */;
+		name = "ofxTwitter.cpp: 63";
+		rLen = 0;
+		rLoc = 1578;
+		rType = 0;
+		vrLen = 1353;
+		vrLoc = 1108;
+	};
+	03B086991330A301005E4FFB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 37";
+		rLen = 0;
+		rLoc = 782;
+		rType = 0;
+		vrLen = 822;
+		vrLoc = 0;
+	};
+	03B35424132FDB7D007D3A5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A54B135C12B1913400FCB126 /* tinyxml.cpp */;
+		name = "tinyxml.cpp: 1540";
+		rLen = 0;
+		rLoc = 30978;
+		rType = 0;
+		vrLen = 1154;
+		vrLoc = 30450;
+	};
+	03B6D6611331176000D6E79F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1D0A3A1BDC003C02F2 /* main.cpp */;
+		name = "main.cpp: 9";
+		rLen = 0;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 416;
+		vrLoc = 0;
+	};
+	03BD58DC13250340003BE710 /* ofxTwitter.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofxTwitter.cpp;
+		path = /Users/Aya/Documents/of_preRelease_v0062_osxSL_FAT/apps/myApps/TwitterSearch/ofxTwitter/ofxTwitter.cpp;
+		sourceTree = "<absolute>";
+	};
+	03BD58DD13250340003BE710 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 03BD58DE13250340003BE710 /* ofxTwitter.h */;
+		name = "ofxTwitter.h: 31";
+		rLen = 0;
+		rLoc = 665;
+		rType = 0;
+		vrLen = 894;
+		vrLoc = 0;
+	};
+	03BD58DE13250340003BE710 /* ofxTwitter.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofxTwitter.h;
+		path = /Users/Aya/Documents/of_preRelease_v0062_osxSL_FAT/apps/myApps/TwitterSearch/ofxTwitter/ofxTwitter.h;
+		sourceTree = "<absolute>";
+	};
+	03C5028913523821002827F1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 117";
+		rLen = 0;
+		rLoc = 2563;
+		rType = 0;
+		vrLen = 1272;
+		vrLoc = 0;
+	};
+	A54B135C12B1913400FCB126 /* tinyxml.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 23920}}";
+			sepNavSelRange = "{30978, 0}";
+			sepNavVisRange = "{30450, 1154}";
+		};
+	};
+	A59B331F12C2903000B6FF11 /* ofxTwitter.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1339}}";
+			sepNavSelRange = "{1479, 0}";
+			sepNavVisRange = "{0, 1167}";
+		};
+	};
+	A59B332012C2903000B6FF11 /* ofxTwitter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 616}}";
+			sepNavSelRange = "{663, 0}";
+			sepNavVisRange = "{0, 894}";
+		};
+	};
+	A59B332112C2903000B6FF11 /* TwitterDelegate.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 616}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 349}";
+		};
+	};
+	A59B332212C2903000B6FF11 /* TwitterDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 641}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 458}";
+		};
+	};
+	A59B332312C2903000B6FF11 /* Tweet.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 616}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 329}";
+		};
+	};
+	A59B332412C2903000B6FF11 /* Tweet.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 663}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{18, 972}";
+		};
+	};
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 03A3EED4132492440013B656 /* TwitterSearch */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* TwitterSearch */;
+		addToTargets = (
+			E4B69B5A0A3A1756003C02F2 /* TwitterSearch */,
+		);
+		codeSenseManager = 03A3EF00132492570013B656 /* Code sense */;
+		executables = (
+			03A3EED4132492440013B656 /* TwitterSearch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324154588;
+			PBXWorkspaceStateSaveDate = 324154588;
+		};
+		perUserProjectItems = {
+			035EEBD3134B3AE000B9B0F0 /* PBXTextBookmark */ = 035EEBD3134B3AE000B9B0F0 /* PBXTextBookmark */;
+			03B086981330A301005E4FFB /* PBXTextBookmark */ = 03B086981330A301005E4FFB /* PBXTextBookmark */;
+			03B086991330A301005E4FFB /* PBXTextBookmark */ = 03B086991330A301005E4FFB /* PBXTextBookmark */;
+			03B35424132FDB7D007D3A5D /* PBXTextBookmark */ = 03B35424132FDB7D007D3A5D /* PBXTextBookmark */;
+			03B6D6611331176000D6E79F /* PBXTextBookmark */ = 03B6D6611331176000D6E79F /* PBXTextBookmark */;
+			03BD58DD13250340003BE710 /* PBXTextBookmark */ = 03BD58DD13250340003BE710 /* PBXTextBookmark */;
+			03C5028913523821002827F1 /* PBXTextBookmark */ = 03C5028913523821002827F1 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 03A3EEFF132492570013B656 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* TwitterSearch */ = {
+		activeExec = 0;
+		executables = (
+			03A3EED4132492440013B656 /* TwitterSearch */,
+		);
+	};
+	E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 641}}";
+			sepNavSelRange = "{221, 0}";
+			sepNavVisRange = "{0, 416}";
+		};
+	};
+	E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 2118}}";
+			sepNavSelRange = "{2563, 0}";
+			sepNavVisRange = "{0, 1272}";
+		};
+	};
+	E4B69E1F0A3A1BDC003C02F2 /* testApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 641}}";
+			sepNavSelRange = "{782, 0}";
+			sepNavVisRange = "{0, 822}";
+		};
+	};
+}

@@ -1,0 +1,7 @@
+In file included from /usr/include/c++/4.0.0/backward/istream.h:31,
+                 from /Users/Aya/Documents/of_preRelease_v0062_osxSL_FAT/apps/myApps/TwitterSearch/../../../addons/ofxHttpUtils/ofxHttpUtils.h:31,
+                 from /Users/Aya/Documents/of_preRelease_v0062_osxSL_FAT/apps/myApps/TwitterSearch/../../../addons/ofxHttpUtils/ofxHttpEvents.h:11,
+                 from /Users/Aya/Documents/of_preRelease_v0062_osxSL_FAT/apps/myApps/TwitterSearch/ofxTwitter/ofxTwitter.h:17,
+                 from /Users/Aya/Documents/of_preRelease_v0062_osxSL_FAT/apps/myApps/TwitterSearch/ofxTwitter/ofxTwitter.cpp:13:
+/usr/include/c++/4.0.0/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.
+i686-apple-darwin10-gcc-4.0.1: -lpthread: linker input file unused because linking not done
